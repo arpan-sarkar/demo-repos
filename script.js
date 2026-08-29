@@ -1,0 +1,1 @@
+alert("toder sobai ke chudi, ok kor vitore valo content ache")

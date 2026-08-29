@@ -1,0 +1,14 @@
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("image.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ol{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
